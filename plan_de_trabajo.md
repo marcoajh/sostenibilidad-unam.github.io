@@ -61,6 +61,7 @@ Concretamente: usar JSON para todo.
   - diagrama de UML
   - uso de base de datos
   - utilizar json para ensamblar los distintos modelos que se integran en MEGADAPT
+  - ponderar los notebooks para ensablar modelos
 
 
 
