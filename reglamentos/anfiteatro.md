@@ -87,6 +87,8 @@ profesionales de audio y sonido.
 
 ### Información solicitud inicial
 
+[Registre su solicitud](https://docs.google.com/forms/d/e/1FAIpQLSdovXZKgmRK0jLBtchJvMHdWRusepjlrK5JT3CUBdJj1l5haQ/viewform)
+
 - Nombre completo
 - Correo electrónico
 - Teléfono
