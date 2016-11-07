@@ -1,4 +1,4 @@
-Reglamento para la sala de recepción de LANCIS:
+# Reglamento para la sala de recepción de LANCIS:
 
 1.- Se prohíbe consumir bebidas alcohólicas 
 
@@ -13,11 +13,10 @@ Reglamento para la sala de recepción de LANCIS:
 
 
 
-Reglamento para la terraza de LANCIS:
+# Reglamento para la terraza de LANCIS:
 
 1.- Se prohíbe consumir bebidas alcohólicas 
 
 2.- El uso de esta sala es abierto para el público en general
 
 3.- El usuario será responsable de dejar la terraza libre de basura al concluir el uso
-
