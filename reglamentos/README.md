@@ -36,6 +36,4 @@
 
 - Anexos
 
-- Terraza
-
-- Lobby
+- [Lobby y Terraza](sala_y_terraza.md)
