@@ -44,18 +44,18 @@ rendimiento para el procesamiento intensivo y almacenamiento de información.
 La sala de inmersión de la planta baja tiene una capacidad para 20
 personas y cuenta con el siguiente equipamiento:
 
-• 6 pantallas Sharp Aquos 60” Full HD (1920x1080 pixeles)
-• 2 cámaras Sony Ipela Punto-a-Punto Full HD
-• Servidor dedicado
-• Procesador Core i5
-• 1 TB disco duro
-• Tarjeta gráfica con 1 GB de memoria y 6 salidas de video
-• 8 GB de memoria RAM
-• Lector de CD/DVD
-• Micrófonos inalámbricos Revolabs para cámaras
-• Punto de acceso inalámbrico a Internet
-• Sonido marca Bose
-• Placa para conexión de equipo de cómputo al interior de la sala
+- 6 pantallas Sharp Aquos 60” Full HD (1920x1080 pixeles)
+- 2 cámaras Sony Ipela Punto-a-Punto Full HD
+- Servidor dedicado
+- Procesador Core i5
+- 1 TB disco duro
+- Tarjeta gráfica con 1 GB de memoria y 6 salidas de video
+- 8 GB de memoria RAM
+- Lector de CD/DVD
+- Micrófonos inalámbricos Revolabs para cámaras
+- Punto de acceso inalámbrico a Internet
+- Sonido marca Bose
+- Placa para conexión de equipo de cómputo al interior de la sala
 
 La sala de inmersión de la planta alta (“sala de usos múltiples”)
 tiene una capacidad para 30 personas, la cual fue diseñada para
@@ -63,19 +63,19 @@ funcionar con mayor flexibilidad en la configuración del mobiliario y
 adaptarse a las necesidades específicas del usuario. Cuenta con el
 siguiente equipamiento:
 
-• Pizarrón electrónico Sharp Aquos 60”
-• 3 pantallas Sharp Aquos 60” Full HD (1920x1080 pixeles)
-• 2 cámaras Sony Ipela Punto-aPunto Full HD
-• Servidor dedicado
-• Procesador Core i5
-• 1 TB disco duro
-• Tarjeta gráfica con 2 GB de memoria y 4 salidas de video
-• 16 GB de memoria RAM
-• Lector de CD/DVD
-• Micrófonos inalámbricos Revolabs para cámaras
-• Punto de acceso inalámbrico a Internet
-• Sonido marca Bose
-• Placa para conexión de equipo de cómputo al interior de la sala.
+- Pizarrón electrónico Sharp Aquos 60”
+- 3 pantallas Sharp Aquos 60” Full HD (1920x1080 pixeles)
+- 2 cámaras Sony Ipela Punto-aPunto Full HD
+- Servidor dedicado
+- Procesador Core i5
+- 1 TB disco duro
+- Tarjeta gráfica con 2 GB de memoria y 4 salidas de video
+- 16 GB de memoria RAM
+- Lector de CD/DVD
+- Micrófonos inalámbricos Revolabs para cámaras
+- Punto de acceso inalámbrico a Internet
+- Sonido marca Bose
+- Placa para conexión de equipo de cómputo al interior de la sala.
 
 Las dos salas cuentan con servicios de videoconferencia y sistemas
 profesionales de audio y sonido.
