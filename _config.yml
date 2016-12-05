@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Laboratorio Nacional de Ciencias de la Sostenibilidad
-author: Comisión de Divulgación
-email: webmaster@iecologia.unam.mx
+author: LANCIS
+email: rgarcia@iecologia.unam.mx
 description: > # this means to ignore newlines until "baseurl:"
   El Laboratorio Nacional de Ciencias de la Sostenibilidad impulsa
   la innovación en la investigación transdisciplinaria, la
@@ -26,7 +26,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  sostenibilidad-unam
 
 # Build settings
 markdown: kramdown
