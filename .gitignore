@@ -1,0 +1,6 @@
+*.log
+*.pot
+*.pyc
+*~
+*.lock
+local_settings.py
