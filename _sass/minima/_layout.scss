@@ -104,6 +104,11 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background-color: $grey-color-dark;
+
+    .foot-link {
+        color: $grey-color-light;
+        line-height: $base-line-height;
+    }
 }
 
 .footer-heading {
