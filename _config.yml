@@ -34,5 +34,6 @@ theme: minima
 gems:
   - jekyll-feed
 exclude:
+  - reglamentos
   - Gemfile
   - Gemfile.lock
