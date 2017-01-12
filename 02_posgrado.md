@@ -19,7 +19,7 @@ este sentido, no es suficiente afrontarlos desde la visión parcial que
 nos da un enfoque disciplinario tradicional. Así, el nuevo Programa de
 Posgrado se diseñó para que los alumnos reciban una formación
 transdisciplinaria, que permita identificar, enmarcar y abordar los
-problemas de sostenibilidad desde una visión integral.
+problemas de sostenibilidad desde una visión integral. algo
 
 El objetivo general del Programa es formar expertos y científicos que
 dominen tanto las bases conceptuales como las metodologías de las
