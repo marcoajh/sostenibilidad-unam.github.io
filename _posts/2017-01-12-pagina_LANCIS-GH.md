@@ -8,7 +8,7 @@ author: Rodrigo García
 
 # Página de LANCIS en GitHub-Pages
 
-La pgina del Laboratorio ahora se hospeda en [GitHub Pages](https://help.github.com/articles/what-is-github-pages/). Así podemos usar GIT para editarla colaborativamente. [El repositorio está acá](https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io), aportaciones son bienvenidas.
+La página del Laboratorio ahora se hospeda en [GitHub Pages](https://help.github.com/articles/what-is-github-pages/). Así podemos usar GIT para editarla colaborativamente. [El repositorio está acá](https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io), aportaciones son bienvenidas.
 
 ## ¿Cómo colaborar?
 
