@@ -27,5 +27,5 @@ Ecología Microbiana
 
 ## En la red
 
-[Google scholar](https://scholar.google.com.mx/citations?user=UQmdPmoAAAAJ&hl=en)
-[Research Gate] (https://www.researchgate.net/profile/Ana_Escalante2)
+- [Google scholar](https://scholar.google.com.mx/citations?user=UQmdPmoAAAAJ&hl=en)
+- [Research Gate] (https://www.researchgate.net/profile/Ana_Escalante2)
