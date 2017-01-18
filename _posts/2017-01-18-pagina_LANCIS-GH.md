@@ -13,5 +13,7 @@ Aquí dejamos la liga al artículo: "Opinion: Urban resilience efforts must cons
 
 www.pnas.org/cgi/doi/10.1073/pnas.1620081114
 
+<img src="https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io/blob/master/assets/F1.large.jpg">
+
 
 
