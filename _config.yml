@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Laboratorio Nacional de Ciencias de la Sostenibilidad
 author: LANCIS
-email: rgarcia@iecologia.unam.mx
+email: webmaster@iecologia.unam.mx
 description: > # this means to ignore newlines until "baseurl:"
   El Laboratorio Nacional de Ciencias de la Sostenibilidad impulsa
   la innovación en la investigación transdisciplinaria, la
