@@ -7,15 +7,13 @@ exclude: true
 
 <img src="https://raw.githubusercontent.com/sostenibilidad-unam/sostenibilidad-unam.github.io/master/assets/paisajes-bonitos-de-oton%CC%83o-lago.jpeg">
 
-- Investigadora Asociada MEGADAPT
-
-- Investigadora, Departamento de Ecología de la Biodiversidad
+- Investigadoraa Titular A
 
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM) 
 
-- Email: anaelena.escalante@gmail.com
+- Email: aescalante@iecologia.unam.mx
 
 
 ## Campo de investigación
@@ -30,3 +28,4 @@ Ecología Microbiana
 ## En la red
 
 [Google scholar](https://scholar.google.com.mx/citations?user=UQmdPmoAAAAJ&hl=en)
+[Research Gate] (https://www.researchgate.net/profile/Ana_Escalante2)
