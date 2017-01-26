@@ -7,7 +7,7 @@ permalink: /academicos/
 # Investigadores
 
 - [Dra. Ana Elena Escalante](/academicos/ana_escalante)
-- [Dra. Julieta A. Rosell García](/academicos/julieta_rosell.html)
+- [Dra. Julieta A. Rosell García](http://sostenibilidad-unam.github.io/academicos/julieta_rosell.html)
 - [Dr. Luis David Alcaraz Peraza](#)
 - [Dr. Luis Bojórquez Tapia](/academicos/luis_bojorquez)
 - [Dra. Mariana Benítez Keinrad](#)
