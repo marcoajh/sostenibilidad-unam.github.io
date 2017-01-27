@@ -16,6 +16,6 @@ exclude: true
 
 ## Campo de investigación
 
-- Sistemas Socio-ambientales: transiciones rural-urbanas, sistemas productivos sostenibles, dimensiones humanas del cambio del paisaje, modos de vida sustentables
+- Sistemas Socio-ambientales: transiciones rural-urbanas, sistemas productivos sostenibles, dimensiones humanas del cambio del paisaje, modos de vida sustentables, resiliencia urbana
 
 
