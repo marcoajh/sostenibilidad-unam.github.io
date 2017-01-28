@@ -8,7 +8,7 @@ permalink: /academicos/
 
 - [Dra. Ana Elena Escalante](/academicos/ana_escalante)
 - [Dra. Julieta A. Rosell García](http://sostenibilidad-unam.github.io/academicos/julieta_rosell.html)
-- [Dr. Luis David Alcaraz Peraza](#)
+- [Dr. Luis David Alcaraz Peraza](/academicos/alcaraz)
 - [Dr. Luis Bojórquez Tapia](/academicos/luis_bojorquez)
 - [Dra. Mariana Benítez Keinrad](#)
 - [Dra. Marisa Mazari Hiriart](/academicos/marisa_mazari)
