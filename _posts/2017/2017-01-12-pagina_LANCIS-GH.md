@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Página de LANCIS en GitHub-Pages"
-date:   2017-01-18 10:13:57 -0600
+date:   2017-01-12
 categories: Anuncios Noticias
 author: Rodrigo García
 ---
