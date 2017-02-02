@@ -34,12 +34,12 @@ exclude: true
 
 - Alejandra Martinez Canedo: 
 - Evelyn Quiroz:
-- Beatriz Ruizpalacios:
+- Beatriz Ruizpalacios: El manejo de residuos sólidos en un humedal en la frontera ubana: El caso de San Gregorio Altapulco, Xochimilco
 
 ### Doctorado
 
 - Shiara Gonzalez: 
 - Bertha Hernandez: 
-- Patricia Perez: 
+- Patricia Perez: Determinantes de cambio en la agricultura para la modelación de escenarios en el socioecosistema periurbano de Xochimilco, Ciudad de México
 
 
