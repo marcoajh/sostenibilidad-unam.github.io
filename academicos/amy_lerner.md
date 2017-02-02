@@ -8,7 +8,7 @@ exclude: true
 ![image of xochi](https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io/tree/master/assets/xochi1.jpeg)
 
 
-- Investigadora Asociada C
+- Investigadora Asociada "C"
 
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 
@@ -20,6 +20,10 @@ exclude: true
 ## Campo de investigación: Estudios de Sistemas Socio-Ecologicos (ESSE)
 
 - Temas especificos: transiciones rural-urbanas, sistemas productivos sostenibles, dimensiones humanas del cambio del paisaje, modos de vida sustentables, resiliencia urbana
+
+## Proyectos Asociados
+
+- [MEGADAPT](http://lancis.ecologia.unam.mx/megadapt/)
 
 ## Alumnos en el Posgrado de Ciencias de la Sostenibilidad, UNAM
 
