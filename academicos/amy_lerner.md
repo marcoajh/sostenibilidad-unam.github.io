@@ -16,6 +16,8 @@ exclude: true
 
 - Email: amy.lerner@iecologia.unam.mx
 
+- Perfil Researchgate: [Amy M. Lerner](https://www.researchgate.net/profile/Amy_Lerner3)
+
 
 ## Campo de investigación: Estudios de Sistemas Socio-Ecologicos (ESSE)
 
