@@ -10,8 +10,6 @@ exclude: true
 
 - Investigadora Asociada C
 
-- Estudios de Sistemas Socio-Ecologicos (ESSE)
-
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM) 
@@ -19,11 +17,11 @@ exclude: true
 - Email: amy.lerner@iecologia.unam.mx
 
 
-## Campo de investigación
+## Campo de investigación: Estudios de Sistemas Socio-Ecologicos (ESSE)
 
-- Sistemas Socio-ecologicos: transiciones rural-urbanas, sistemas productivos sostenibles, dimensiones humanas del cambio del paisaje, modos de vida sustentables, resiliencia urbana
+- Temas especificos: transiciones rural-urbanas, sistemas productivos sostenibles, dimensiones humanas del cambio del paisaje, modos de vida sustentables, resiliencia urbana
 
-## Alumnos en el Posgrado de Ciencias de la Sostenibilidad UNAM
+## Alumnos en el Posgrado de Ciencias de la Sostenibilidad, UNAM
 
 ### Maestria
 
