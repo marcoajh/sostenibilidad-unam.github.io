@@ -5,6 +5,8 @@ permalink: /academicos/amy_lerner
 exclude: true
 ---
 
+<img src="https://raw.githubusercontent.com/sostenibilidad-unam/sostenibilidad-unam.github.io/master/assets/xochi1.jpeg">
+
 - Investigadora Asociada C
 
 - Estudios de Sistemas Socio-Ecologicos (ESSE)
