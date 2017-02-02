@@ -24,6 +24,7 @@ exclude: true
 ## Proyectos Asociados
 
 - [MEGADAPT](http://lancis.ecologia.unam.mx/megadapt/)
+- PAPIIT: Valoración sociocultural y escenarios futuros de la zona lacustre de Xochimilco, Ciudad de México (con Marisa Mazari y Lakshmi Charli-Joseph)
 
 ## Alumnos en el Posgrado de Ciencias de la Sostenibilidad, UNAM
 
