@@ -5,7 +5,7 @@ permalink: /academicos/amy_lerner
 exclude: true
 ---
 
-![image of xochi](https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io/tree/master/assets/xochi1.jpeg)
+![image of xochi](/assets/xochi1.jpg)
 
 
 - Investigadora Asociada "C"
