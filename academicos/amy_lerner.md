@@ -38,7 +38,7 @@ exclude: true
 
 ### Doctorado
 
-- Shiara Gonzalez: 
+- Shiara Gonzalez: Transformación hacia la sostenibilidad en el ámbito rural: Agua, condiciones de salud y modos de vida en comunidades indígenas de la Sierra Huichol
 - Bertha Hernandez: 
 - Patricia Perez: Determinantes de cambio en la agricultura para la modelación de escenarios en el socioecosistema periurbano de Xochimilco, Ciudad de México
 
